@@ -16,8 +16,7 @@
     <style name="qBox" parent="textBox">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_marginLeft">20sp</item>
-        <item name="android:layout_marginRight">20sp</item>
+
         <item name="android:paddingTop">30sp</item>
         <item name="android:paddingBottom">30sp</item>
     </style>
